@@ -11,6 +11,7 @@ My daily LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0011-container-with-most-water/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,8 @@ My daily LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0011-container-with-most-water/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 <!---LeetCode Topics End-->
