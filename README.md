@@ -6,6 +6,7 @@ My daily LeetCode solutions in C++
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0058-length-of-last-word/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -24,4 +25,12 @@ My daily LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
