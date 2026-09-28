@@ -8,6 +8,7 @@ My daily LeetCode solutions in C++
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0058-length-of-last-word/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,10 +31,12 @@ My daily LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
