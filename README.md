@@ -14,6 +14,7 @@ My daily LeetCode solutions in C++
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -45,4 +46,12 @@ My daily LeetCode solutions in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0053-maximum-subarray/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
