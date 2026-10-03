@@ -15,6 +15,7 @@ My daily LeetCode solutions in C++
 | [0011-container-with-most-water](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -61,5 +62,10 @@ My daily LeetCode solutions in C++
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
