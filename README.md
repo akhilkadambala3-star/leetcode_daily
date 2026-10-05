@@ -16,6 +16,7 @@ My daily LeetCode solutions in C++
 | [0011-container-with-most-water](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -24,6 +25,7 @@ My daily LeetCode solutions in C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0011-container-with-most-water/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -74,4 +76,20 @@ My daily LeetCode solutions in C++
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/2390-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
