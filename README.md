@@ -17,6 +17,7 @@ My daily LeetCode solutions in C++
 | [0053-maximum-subarray](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/1748-sum-of-unique-elements) |
@@ -59,6 +60,7 @@ My daily LeetCode solutions in C++
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -72,6 +74,7 @@ My daily LeetCode solutions in C++
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/1748-sum-of-unique-elements) |
 ## Simulation
