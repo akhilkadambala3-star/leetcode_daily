@@ -23,6 +23,7 @@ My daily LeetCode solutions in C++
 | [1748-sum-of-unique-elements](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My daily LeetCode solutions in C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0011-container-with-most-water/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ My daily LeetCode solutions in C++
 | [0056-merge-intervals](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0056-merge-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
