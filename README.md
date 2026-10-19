@@ -9,6 +9,7 @@ My daily LeetCode solutions in C++
 | [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0058-length-of-last-word/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ My daily LeetCode solutions in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilkadambala3-star/leetcode_daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -83,6 +85,7 @@ My daily LeetCode solutions in C++
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/akhilkadambala3-star/leetcode_daily/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
